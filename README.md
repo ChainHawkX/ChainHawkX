@@ -1,10 +1,9 @@
 <!-- Dynamic Banner with Responsive Sizing -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
-    <img src="assets/banner.gif" alt="ChainHawkX Banner" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </picture>
+  <img src="https://raw.githubusercontent.com/ChainHawkX/ChainHawkX/main/assets/banner.gif" 
+       alt="ChainHawkX Banner" 
+       style="max-width: 100%; height: auto; border-radius: 8px;"
+       onerror="this.src='https://placehold.co/1200x400/1a1b27/5BCDEC?text=ChainHawkX+Blockchain+Developer';this.style.border='1px solid #2a2b3a'">
 </div>
 
 <!-- Animated Typing with Customization -->
@@ -54,9 +53,17 @@ Building secure, scalable decentralized systems with 5+ years of blockchain deve
 ## 🛠️ Technology Stack
 
 ### Blockchain Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,etheruem,polkadot,cosmos,substrate,hardhat,foundry,truffle,ganache" />
-</p>
+<div align="center">
+  <!-- Individual icon fallbacks -->
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="28" alt="Solidity">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" height="28" alt="Rust">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" height="28" alt="Ethereum">
+  <img src="https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=white" height="28" alt="Polkadot">
+  <img src="https://img.shields.io/badge/Cosmos-2E3148?logo=cosmos&logoColor=white" height="28" alt="Cosmos">
+  <img src="https://img.shields.io/badge/Substrate-282828?logo=substrate&logoColor=white" height="28" alt="Substrate">
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black" height="28" alt="Hardhat">
+  <img src="https://img.shields.io/badge/Foundry-000000?logo=foundry&logoColor=white" height="28" alt="Foundry">
+</div>
 
 **Smart Contracts:**
 - **Languages:** Solidity (Advanced), Rust (Intermediate), Vyper
@@ -69,9 +76,16 @@ Building secure, scalable decentralized systems with 5+ years of blockchain deve
 - **Layer 2:** StarkNet, Scroll, Polygon zkEVM
 
 ### Web3 Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,graphql,nodejs,express,tailwind,web3,ipfs" />
-</p>
+<div align="center">
+  <!-- Shield.io badges as fallback -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="28" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="28" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="28" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="28" alt="Node.js">
+</div>
+
 
 **Frontend:**
 - React.js, Next.js, Web3Modal, RainbowKit, Wagmi
@@ -179,9 +193,8 @@ Building secure, scalable decentralized systems with 5+ years of blockchain deve
 
 <!-- Dynamic Footer -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-wave-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/footer-wave-light.svg">
-    <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ChainHawkX/ChainHawkX/main/assets/footer.gif" 
+       width="100%" 
+       alt="Footer Divider"
+       onerror="this.src='https://placehold.co/1200x100/1a1b27/FFFFFF?text=Building+The+Decentralized+Future';this.style.borderTop='1px solid #2a2b3a'">
 </div>
