@@ -53,16 +53,41 @@ Building secure, scalable decentralized systems with 5+ years of blockchain deve
 ## 🛠️ Technology Stack
 
 ### Blockchain Development
-<div align="center">
-  <!-- Individual icon fallbacks -->
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="28" alt="Solidity">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" height="28" alt="Rust">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" height="28" alt="Ethereum">
-  <img src="https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=white" height="28" alt="Polkadot">
-  <img src="https://img.shields.io/badge/Cosmos-2E3148?logo=cosmos&logoColor=white" height="28" alt="Cosmos">
-  <img src="https://img.shields.io/badge/Substrate-282828?logo=substrate&logoColor=white" height="28" alt="Substrate">
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black" height="28" alt="Hardhat">
-  <img src="https://img.shields.io/badge/Foundry-000000?logo=foundry&logoColor=white" height="28" alt="Foundry">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2d2d2d" alt="Solidity" title="Smart Contracts">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a1a" alt="Rust" title="Performance">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=2e2e2e" alt="Ethereum" title="EVM">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-zkSync-1C68FF?style=for-the-badge&logo=zksync&logoColor=white&labelColor=0d4ed9" alt="zkSync" title="ZK-Rollups">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white&labelColor=1d273b" alt="Arbitrum" title="Optimistic Rollups">
+  </a>
+</div>
+
+### Web3 Development
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232a" alt="React" title="Frontend">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" title="Fullstack">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d79c7" alt="TypeScript" title="Type Safety">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Wagmi-FFCC00?style=for-the-badge&logo=wagmi&logoColor=black&labelColor=f5f5f5" alt="Wagmi" title="Web3 Hooks">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-The_Graph-3A00FF?style=for-the-badge&logo=thegraph&logoColor=white&labelColor=2a00e5" alt="The Graph" title="Indexing">
+  </a>
 </div>
 
 **Smart Contracts:**
@@ -76,14 +101,22 @@ Building secure, scalable decentralized systems with 5+ years of blockchain deve
 - **Layer 2:** StarkNet, Scroll, Polygon zkEVM
 
 ### Web3 Development
-<div align="center">
-  <!-- Shield.io badges as fallback -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="28" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="28" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="28" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="28" alt="Node.js">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=f5f5f5" alt="Hardhat" title="EVM Development">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white&labelColor=1a1a1a" alt="Foundry" title="Rust Tooling">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Viem-6CC24A?style=for-the-badge&logo=viem&logoColor=white&labelColor=4caf50" alt="Viem" title="Web3 Client">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=4cb5c5" alt="IPFS" title="Decentralized Storage">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-RainbowKit-FF6B6B?style=for-the-badge&logo=rainbowkit&logoColor=white&labelColor=ff5252" alt="RainbowKit" title="Wallet Connection">
+  </a>
 </div>
 
 
