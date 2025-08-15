@@ -25,21 +25,13 @@ I'm passionate about creating **secure, scalable, and innovative blockchain solu
 ---
 
 ## 🔗 Tech Arsenal
-<p align="center" style="margin: 2rem 0;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,react,js,ts,nodejs,tailwind,git,github" />
-  
-  <!-- Premium Technology Badges -->
-  <div style="display: flex; justify-content: center; gap: 0.75rem; margin-top: 1rem; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=1a1b27" 
-         alt="Hardhat"
-         style="box-shadow: 0 2px 8px rgba(255,241,0,0.3);">
-    <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white&labelColor=1a1b27" 
-         alt="Foundry"
-         style="box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
-    <img src="https://img.shields.io/badge/zkSync-1C68FF?style=for-the-badge&logo=zksync&logoColor=white&labelColor=1a1b27" 
-         alt="zkSync"
-         style="box-shadow: 0 2px 8px rgba(28,104,255,0.3);">
-  </div>
+  <br>
+  <!-- Added Icons -->
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry" />
+  <img src="https://img.shields.io/badge/zkSync-1C68FF?style=for-the-badge&logo=zksync&logoColor=white" alt="zkSync" />
 </p>
 
 ---
