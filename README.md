@@ -1,165 +1,135 @@
-<!-- Dynamic Banner with Responsive Sizing -->
+<!-- Dynamic Banner with Parallax Effect -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ChainHawkX/ChainHawkX/main/assets/banner.gif" 
        alt="ChainHawkX Banner" 
-       style="max-width: 100%; height: auto; border-radius: 8px;"
-       onerror="this.src='https://placehold.co/1200x400/1a1b27/5BCDEC?text=ChainHawkX+Blockchain+Developer';this.style.border='1px solid #2a2b3a'">
+       style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 30px rgba(91,205,236,0.2);"
+       onerror="this.src='https://placehold.co/1200x400/0f172a/5BCDEC?text=ChainHawkX+Blockchain+Architect';this.style.border='1px solid #1e293b'">
 </div>
 
-<!-- Animated Typing with Customization -->
-<div align="center">
+<!-- Animated Typing with Custom Styling -->
+<div align="center" style="margin: 2rem 0;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1200&color=5BCDEC&center=true&vCenter=true&width=800&lines=Hamza+%7C+ChainHawkX;Blockchain+Architect+%26+Web3+Developer;Smart+Contract+Security+Specialist;Building+Decentralized+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%94%A5+Hamza+%7C+ChainHawkX;%F0%9F%92%BB+Blockchain+Architect+%26+Web3+Engineer;%F0%9F%94%92+Smart+Contract+Security+Expert;%F0%9F%8C%90+Building+The+Decentralized+Future" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- GitHub Badges -->
+<!-- GitHub Stats Cards with Glow Effect -->
 <p align="center">
   <a href="https://github.com/ChainHawkX?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repos-20+-blue?logo=github&style=flat-square">
+    <img alt="Repositories" src="https://img.shields.io/badge/%F0%9F%93%96_Repos-20+-5BCDEC?logo=github&style=for-the-badge&logoColor=white&labelColor=0f172a">
   </a>
   <a href="https://github.com/ChainHawkX?tab=stars">
-    <img alt="Stars" src="https://img.shields.io/github/stars/ChainHawkX?color=yellow&label=Stars&logo=github&style=flat-square">
+    <img alt="Stars" src="https://img.shields.io/badge/%E2%AD%90%EF%B8%8F_Stars-150+-FFD700?logo=github&style=for-the-badge&logoColor=black&labelColor=0f172a">
   </a>
   <a href="https://github.com/ChainHawkX?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/ChainHawkX?color=lightgrey&label=Followers&logo=github&style=flat-square">
+    <img alt="Followers" src="https://img.shields.io/badge/%F0%9F%91%A5%F0%9F%8F%BD_Followers-500+-7CFC00?logo=github&style=for-the-badge&logoColor=white&labelColor=0f172a">
   </a>
   <a href="https://github.com/sponsors/ChainHawkX">
-    <img alt="Sponsors" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=githubsponsors&style=flat-square">
+    <img alt="Sponsors" src="https://img.shields.io/badge/%F0%9F%92%96_Sponsor-Me-F578FF?logo=githubsponsors&style=for-the-badge&logoColor=white&labelColor=0f172a">
   </a>
 </p>
 
----
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChainHawkX/ChainHawkX/main/assets/divider.svg" 
+       width="80%" 
+       alt="Divider"
+       onerror="this.style.display='none'">
+</div>
 
 ## 🚀 Professional Profile
 
-**Blockchain Architect | Web3 Developer | Security Specialist**  
+**Blockchain Architect | Web3 Engineer | Security Expert**  
 Building secure, scalable decentralized systems with 5+ years of blockchain development experience.
 
-**Core Expertise:**
-- ✅ End-to-end blockchain solutions architecture
-- ✅ Smart contract development & security auditing
-- ✅ DeFi protocol design and implementation
-- ✅ Web3 full-stack development
-- ✅ Layer 2 scaling solutions
+### 🔍 Core Expertise
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons:solidity.svg?color=5BCDEC" width="40" alt="Solidity">
+      <br><strong>Smart Contracts</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons:ethereum.svg?color=5BCDEC" width="40" alt="Ethereum">
+      <br><strong>EVM Chains</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons:zksync.svg?color=5BCDEC" width="40" alt="zkSync">
+      <br><strong>Layer 2</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons:web3dotjs.svg?color=5BCDEC" width="40" alt="Web3">
+      <br><strong>dApps</strong>
+    </td>
+  </tr>
+</table>
 
-**Currently Focused On:**
-- 🔭 Zero-knowledge proof applications
-- 🌱 Advanced smart contract patterns
-- 💡 MEV protection strategies
+### 🌟 Current Focus
+- 🔭 **Zero-Knowledge Proofs**: Implementing zkSNARKs/zkSTARKs in smart contracts
+- 🌱 **Account Abstraction**: Exploring ERC-4337 implementations
+- 💡 **MEV Protection**: Developing fair sequencing solutions
 
 ---
 
 ## 🛠️ Technology Stack
 
 ### Blockchain Development
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2d2d2d" alt="Solidity" title="Smart Contracts">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a1a" alt="Rust" title="Performance">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=2e2e2e" alt="Ethereum" title="EVM">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-zkSync-1C68FF?style=for-the-badge&logo=zksync&logoColor=white&labelColor=0d4ed9" alt="zkSync" title="ZK-Rollups">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white&labelColor=1d273b" alt="Arbitrum" title="Optimistic Rollups">
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1.5rem 0;">
+  <a href="#"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white&color=0f172a" alt="Solidity"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-black.svg?style=for-the-badge&logo=rust&logoColor=white&color=0f172a" alt="Rust"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=0f172a" alt="Ethereum"></a>
+  <a href="#"><img src="https://img.shields.io/badge/zkSync-1C68FF?style=for-the-badge&logo=zksync&logoColor=white&color=0f172a" alt="zkSync"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white&color=0f172a" alt="Arbitrum"></a>
+  <a href="#"><img src="https://img.shields.io/badge/StarkNet-1C1C1C?style=for-the-badge&logo=starknet&logoColor=white&color=0f172a" alt="StarkNet"></a>
 </div>
 
 ### Web3 Development
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232a" alt="React" title="Frontend">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" title="Fullstack">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d79c7" alt="TypeScript" title="Type Safety">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Wagmi-FFCC00?style=for-the-badge&logo=wagmi&logoColor=black&labelColor=f5f5f5" alt="Wagmi" title="Web3 Hooks">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-The_Graph-3A00FF?style=for-the-badge&logo=thegraph&logoColor=white&labelColor=2a00e5" alt="The Graph" title="Indexing">
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1.5rem 0;">
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=0f172a" alt="Next.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=0f172a" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=0f172a" alt="TypeScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wagmi-FFCC00?style=for-the-badge&logo=wagmi&logoColor=black&color=0f172a" alt="Wagmi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/The_Graph-3A00FF?style=for-the-badge&logo=thegraph&logoColor=white&color=0f172a" alt="The Graph"></a>
 </div>
 
-**Smart Contracts:**
-- **Languages:** Solidity (Advanced), Rust (Intermediate), Vyper
-- **Frameworks:** Hardhat, Foundry, Brownie, Anchor (Solana)
-- **Libraries:** OpenZeppelin, DappTools, Solmate
-
-**Blockchain Networks:**
-- **EVM:** Ethereum, Polygon, Arbitrum, Optimism, zkSync Era
-- **Non-EVM:** Solana, Near, Cosmos, Polkadot
-- **Layer 2:** StarkNet, Scroll, Polygon zkEVM
-
-### Web3 Development
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=f5f5f5" alt="Hardhat" title="EVM Development">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white&labelColor=1a1a1a" alt="Foundry" title="Rust Tooling">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Viem-6CC24A?style=for-the-badge&logo=viem&logoColor=white&labelColor=4caf50" alt="Viem" title="Web3 Client">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=4cb5c5" alt="IPFS" title="Decentralized Storage">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-RainbowKit-FF6B6B?style=for-the-badge&logo=rainbowkit&logoColor=white&labelColor=ff5252" alt="RainbowKit" title="Wallet Connection">
-  </a>
+### DevOps & Security
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1.5rem 0;">
+  <a href="#"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black&color=0f172a" alt="Hardhat"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=foundry&logoColor=white&color=0f172a" alt="Foundry"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0f172a" alt="Docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tenderly-0A0A0A?style=for-the-badge&logo=tenderly&logoColor=white&color=0f172a" alt="Tenderly"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Slither-4B0082?style=for-the-badge&logo=slither&logoColor=white&color=0f172a" alt="Slither"></a>
 </div>
-
-
-**Frontend:**
-- React.js, Next.js, Web3Modal, RainbowKit, Wagmi
-- Ethers.js, Web3.js, Viem
-
-**Backend:**
-- Node.js, Express, GraphQL, Moralis, Alchemy SDK
-- The Graph Protocol, Ponder, Goldsky
-
-**DevOps & Tooling:**
-- Docker, Kubernetes, GitHub Actions, CI/CD Pipelines
-- Tenderly, Blocknative, Etherscan API
 
 ---
 
 ## 🔍 Featured Projects
 
-### 1. **AtomicSwap Escrow Protocol**  
-   *Trustless cross-chain atomic swaps with zero-knowledge pre-image verification*
-   - ✅ Supports EVM ↔ Non-EVM chain swaps
-   - 🔒 ZK-proof based secret revelation
-   - 📊 98% gas efficiency improvement over traditional HTLC
-   - 🛡️ Audited by ConsenSys Diligence
-   - **Tech:** Solidity, Circom, Hardhat, Foundry
-   - [🔗 Live Demo](#) | [📜 Contract Code](#) | [📄 Whitepaper](#)
+### 1. **zkAtomicSwap Protocol**  
+   *Zero-knowledge cross-chain atomic swaps with MEV protection*
+   <div>
+     <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="24">
+     <img src="https://img.shields.io/badge/Circom-555555?logo=circom&logoColor=white" height="24">
+     <img src="https://img.shields.io/badge/Foundry-000000?logo=foundry&logoColor=white" height="24">
+   </div>
+   - ✅ ZK-proof based secret revelation
+   - 🛡️ MEV-resistant swap execution
+   - ⚡ 40% gas savings vs traditional HTLC
+   - [<img src="https://img.shields.io/badge/-Live_Demo-5BCDEC?style=flat-square&logo=vercel&logoColor=white">](#) 
+   [<img src="https://img.shields.io/badge/-Contract_Code-5BCDEC?style=flat-square&logo=github&logoColor=white">](#)
 
-### 2. **Nexus NFT Marketplace**  
-   *Multi-chain NFT platform with custom royalty enforcement*
-   - 🌐 Ethereum, Polygon, and Solana support
-   - 💰 Dynamic royalty splitting (ERC-2981++)
-   - 🖼️ On-chain SVG generation
-   - **Tech:** Next.js, The Graph, IPFS, Solidity
-   - [🔗 Production Site](#) | [📜 Core Contracts](#)
-
-### 3. **Web3 Payment Gateway**  
-   *Fiat-to-crypto gateway with chargeback protection*
-   - 💳 Visa/Mastercard integration
-   - ⚡ <500ms settlement via Layer 2
-   - 🔄 Automatic fiat conversion
-   - **Tech:** React, Node.js, Circle API, Safe{Wallet}
-   - [🔗 Merchant Dashboard](#) | [📜 API Docs](#)
+### 2. **OmniChain NFT Platform**  
+   *Cross-chain NFT marketplace with dynamic royalties*
+   <div>
+     <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="24">
+     <img src="https://img.shields.io/badge/The_Graph-3A00FF?logo=thegraph&logoColor=white" height="24">
+     <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white" height="24">
+   </div>
+   - 🌐 5+ chain support (EVM & non-EVM)
+   - 💰 ERC-2981++ royalty standard
+   - 🖼️ On-chain generative art
+   - [<img src="https://img.shields.io/badge/-Production_Site-5BCDEC?style=flat-square&logo=vercel&logoColor=white">](#) 
+   [<img src="https://img.shields.io/badge/-Whitepaper-5BCDEC?style=flat-square&logo=adobeacrobatreader&logoColor=white">](#)
 
 ---
 
@@ -167,67 +137,50 @@ Building secure, scalable decentralized systems with 5+ years of blockchain deve
 
 <div align="center">
   <a href="https://github.com/ChainHawkX">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChainHawkX&theme=github_dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChainHawkX&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChainHawkX&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChainHawkX&theme=github-dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChainHawkX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=5BCDEC&bg_color=0f172a&title_color=5BCDEC&icon_color=5BCDEC"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChainHawkX&layout=compact&langs_count=8&theme=github_dark&border_color=5BCDEC&bg_color=0f172a&title_color=5BCDEC"/>
   </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChainHawkX&theme=github-dark&bg_color=0f172a&color=5BCDEC&line=5BCDEC&point=FFFFFF" width="100%"/>
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
-- **ConsenSys** Certified Ethereum Developer (Advanced)
-- **Chainlink** Certified Smart Contract Developer
-- **OpenZeppelin** Security Auditor Certification
-- **GitHub** Arctic Code Vault Contributor
-- **Ethereum Foundation** Grantee (2022, 2023)
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Gas Costs in High-Frequency DeFi Contracts](https://example.com/blog/gas-optimization)
-- [Secure Cross-Chain Communication Patterns](https://example.com/blog/cross-chain)
-- [The Future of Account Abstraction: ERC-4337 Deep Dive](https://example.com/blog/erc4337)
-<!-- BLOG-POST-LIST:END -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 1.5rem 0;">
+  <a href="#"><img src="https://img.shields.io/badge/ConsenSys-Expert-5BCDEC?style=flat-square&logo=consensys&logoColor=white" height="32"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chainlink-Certified-5BCDEC?style=flat-square&logo=chainlink&logoColor=white" height="32"></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenZeppelin-Auditor-5BCDEC?style=flat-square&logo=openzeppelin&logoColor=white" height="32"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Arctic_Vault-5BCDEC?style=flat-square&logo=github&logoColor=white" height="32"></a>
+</div>
 
 ---
 
-## 🤝 Professional Network
+## 📫 Let's Connect
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 2rem 0;">
   <a href="https://linkedin.com/in/hamza-blockchain">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0f172a" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/ChainHawkX">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0f172a" alt="Twitter">
   </a>
   <a href="https://github.com/ChainHawkX">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/ChainHawkX">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0f172a" alt="GitHub">
   </a>
   <a href="mailto:hamza.web3dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0f172a" alt="Email">
   </a>
   <a href="https://chainhawkx.eth.xyz">
-    <img src="https://img.shields.io/badge/ENS-chainhawkx.eth-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/ENS-chainhawkx.eth-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=0f172a" alt="ENS">
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChainHawkX&label=Profile+Views&color=blue&style=flat-square" alt="ChainHawkX" />
-</div>
-
-<!-- Dynamic Footer -->
+<!-- Animated Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ChainHawkX/ChainHawkX/main/assets/footer.gif" 
        width="100%" 
-       alt="Footer Divider"
-       onerror="this.src='https://placehold.co/1200x100/1a1b27/FFFFFF?text=Building+The+Decentralized+Future';this.style.borderTop='1px solid #2a2b3a'">
+       alt="Footer"
+       style="border-radius: 0 0 12px 12px;"
+       onerror="this.src='https://placehold.co/1200x100/0f172a/5BCDEC?text=Innovating+Blockchain+Solutions';this.style.borderTop='1px solid #1e293b'">
 </div>
