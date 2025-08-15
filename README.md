@@ -18,8 +18,24 @@ I’m passionate about creating **secure, scalable, and innovative blockchain so
 
 ## 🔗 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,react,js,ts,nodejs,express,postgresql,mongodb,tailwind,docker,git,github" />
+  <!-- Core Blockchain Tools -->
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,react,js,ts,nodejs,tailwind,git,github,nextjs,ipfs,graphql,python" />
+
+  <!-- Custom Icons for Special Tools -->
+  <img src="assets/hardhat.svg" height="48" alt="Hardhat" />
+  <img src="assets/foundry.svg" height="48" alt="Foundry" />
+  <img src="assets/zksync.svg" height="48" alt="zkSync" />
 </p>
+
+**Blockchain & Web3 Skills:**
+- **Smart Contracts:** Solidity, Hardhat, Foundry, OpenZeppelin  
+- **EVM Chains:** Ethereum, Polygon, Binance Smart Chain, Avalanche, zkSync  
+- **Non-EVM Chains:** Solana (Basics), Near Protocol  
+- **Web3 Integration:** ethers.js, web3.js, WalletConnect, MetaMask, RainbowKit  
+- **Storage & Indexing:** IPFS, Filecoin, Arweave, The Graph Protocol  
+- **DeFi & NFTs:** ERC-20, ERC-721, ERC-1155, Uniswap SDK, NFT Metadata Standards  
+- **Security:** Contract Auditing, Slither, MythX, Gas Optimization  
+- **Testing & Deployment:** Mocha, Chai, Truffle, Remix IDE
 
 ---
 
