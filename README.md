@@ -19,13 +19,9 @@ I’m passionate about creating **secure, scalable, and innovative blockchain so
 ## 🔗 Tech Arsenal
 <p align="center">
   <!-- Core Blockchain Tools -->
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,react,js,ts,nodejs,tailwind,git,github,nextjs,ipfs,graphql,python" />
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,hardhat,foundry,zkSync,react,js,ts,nodejs,tailwind,git,github,nextjs,ipfs,graphql,python" />
 
-  <!-- Custom Icons for Special Tools -->
-  <img src="assets/hardhat.svg" height="48" alt="Hardhat" />
-  <img src="assets/foundry.svg" height="48" alt="Foundry" />
-  <img src="assets/zksync.svg" height="48" alt="zkSync" />
-</p>
+  
 
 **Blockchain & Web3 Skills:**
 - **Smart Contracts:** Solidity, Hardhat, Foundry, OpenZeppelin  
